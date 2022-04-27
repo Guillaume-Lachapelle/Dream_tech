@@ -6,10 +6,10 @@ The website was built to accomodate our clientele for easy and fast
 shopping from home. The user can easily paruse the items of our store
 and purchase when wanted.
 
-The website is dynamic. A back-end subsection will be able to provide 
+The website is dynamic. A back-end subsection is able to provide 
 the administration with the clients' orders as well as modify the 
 contents within the store. This allows the grocery store to grow and adjust
-through time or clientele suggestion. 
+through time or clientele suggestion, as well as keep track of inventory, orders, and clients.
 
 
 
@@ -39,11 +39,7 @@ through time or clientele suggestion.
 
 #### What was our website made with?
 
-FoodBox was created with HTML, JavaScript, and CSS.
-
-#### Will there be other languages used for the website?
-
-Yes, the website will also become more interactive with the use of  PHP later on in its development.
+FoodBox was created with HTML, JavaScript, CSS, and PHP.
 
 
 ## Acknowledgements
